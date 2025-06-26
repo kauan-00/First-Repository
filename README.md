@@ -1,2 +1,2 @@
-# First-Repository-as-Kim-Petras-s-Debut-
-☆*: .｡. o(≧▽≦)o .｡.:*☆ //ROLLERCOASTER
+# First-Repository
+☆*: .｡. o(≧▽≦)o .｡.:*☆ It's giving Kim Petras's Debut
