@@ -1,6 +1,8 @@
+<hr>
+
 # 🎂 First-Repository <!-- El título es hecho con hashtag-->
 > [!IMPORTANT] 
-¡Ni todo contenido acá presente es serio! <!-- Com el mayor y corchetes es hecho una sesión especial (NOTE, TIP, CAUTION, WARNING) -->
+¡ Hay partes de la planificacíon que estan guardados en otros softwares ! <!-- Com el mayor y corchetes es hecho una sesión especial (NOTE, TIP, CAUTION, WARNING) -->
 
 ## 💻 About this project (because it's in the script...)
 Mismo con las bromas, ese repositorio es el comienzo de una nueva jornada. Acá, yo **escribiré las mudanzas que ha pasado durante todo el seguimiento del proyecto** y, así como muchas otras personas, lograré con éxito un cargo como *programador web*. Entonces, como dijo Dua Lipa (o Marina Diamandis), esas son las nuevas reglas:
@@ -11,9 +13,9 @@ Mismo con las bromas, ese repositorio es el comienzo de una nueva jornada. Acá,
 
 ## 👨🏻‍💻 About me! 
 Esas son mis cuentas en la internet:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() \
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() \
-[![Youtube](https://img.shields.io/badge/-Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-gonçalves) \
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan.php/) \
+[![Youtube](https://img.shields.io/badge/-Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kauanwithnoface)
 
 ## 🗺️ Planificación de estudios fundamentado en tareas
 ### 🐛 Primera parte
@@ -39,6 +41,5 @@ Esas son mis cuentas en la internet:
 - [ ]  Postar en [GitHub Pages]();
 - [ ]  Escribir un informe con las dificultades de los procesos.
 
-
-
+<hr>
 
