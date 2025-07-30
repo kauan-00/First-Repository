@@ -48,6 +48,18 @@ h1 {
     text-transform: uppercase;
 }
 
+@media (max-width: 392px) {
+    h1  {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 335px){
+    h1 {
+        font-size: 35px;
+    }
+}
+
 .index-main {
     margin-top: 18px;
 }
